@@ -13,15 +13,12 @@
 
 |                                 	|                                       	|                              	|                       	|
 |---------------------------------	|---------------------------------------	|------------------------------	|-----------------------	|
-| June 2019 - Present             	| Ernst&Young                           	| Consultant                   	| London, U.K.          	|
+| June 2019 - Present             	| Ernst&Young                           	| Data Analyst                 	| London, U.K.          	|
 | April 2019 - May 2019           	| ToucanBox                             	| Data Analyst                 	| London, U.K.          	|
 | April 2018 - August 2018        	| Meero                                 	| Business Intelligence Intern 	| Paris, France         	|
-| September 2017 - September 2018 	| École Polytechnique 👩‍🎓                	| Masters 1                    	| Palaiseau, France     	|
+| September 2017 - September 2018 	| École Polytechnique 👩‍               	| Masters 1                    	| Palaiseau, France     	|
 | November 2015 - October 2016    	| Mini Pharmacy Enterprise Inc          	| Data Specialist              	| L.A., C.A., U.S.A.    	|
 | August 2010 - May 2014          	| University of California, Berkeley 👩‍🎓 	| B.A.s                        	| Berkeley, C.A., U.S.A 	|
-
-
-
 <br></br>
 <br></br>
 
