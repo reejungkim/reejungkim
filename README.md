@@ -1,5 +1,4 @@
-## Ree Jung Kim 🙊🙉🙈🐵
-
+## Ree Jung Kim
 <br></br>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reejugn.kim@gmail.com)](mailto:reejung.kim@gmail.com) 
